@@ -1,8 +1,3 @@
-# Storm Data Analysis
-W. Aaron Morris  
-
-
-
 # Overview
 Synopsis: Exploratory Analysis of the NOAA Storm Database (1950-2011) to analyze severe weather outcomes.
 
